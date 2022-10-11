@@ -215,9 +215,10 @@ write the following [mysqld] bind address= 0.0.0.0 or private i.p of our webserv
 
   5. Enable TCP port 80 in Inbound Rules configuration for your Web Server EC2 (enable from everywhere 0.0.0.0/0 or from your workstation’s IP)
 
-  6. Try to access from your browser the link to your WordPress http://<Web-Server-Public-IP-Address>/wordpress/
+  6. Try to access from your browser the link to your WordPress http://Web-Server-Public-IP-Address/wordpress/
 
-![word](./wordpress%20succesfuly%20installed.PNG)
+![word1](./wordpress%20succesfuly%20installed.PNG
+)
 
 ![word2](./wordpress%20sucess2.PNG)
 
